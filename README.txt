@@ -1,6 +1,6 @@
 Here is a step-by-step procedure that I used to configure my Slack App integration with Django and ngrok
 
-**IMPORTANT**: all of the logic that gives my phrasefinder slackbot functionality can be found in slack/events/views.py
+**IMPORTANT**: all of the logic that gives my phrasefinder slackbot functionality can be found in slack/views.py
 
 --Install frameworks and slack api----------------------------------------------
 pip install django
