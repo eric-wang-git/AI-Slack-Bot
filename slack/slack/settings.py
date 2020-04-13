@@ -23,7 +23,7 @@ SECRET_KEY = 'j1+@11i^@gct9+z&3u-g9#osyi!v6d6yis=xe8n(rrh(x(j&&$'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['2dd29cd3.ngrok.io']
+ALLOWED_HOSTS = ['d7b3e7fc.ngrok.io']
 
 # SLACK API Configurations
 # ----------------------------------------------
