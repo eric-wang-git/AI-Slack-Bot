@@ -34,11 +34,11 @@ export SLACK_BOT_TOKEN=xoxb-1047294149206-1053947245045-RQxdqXY1R0mSA6UiLnK2HiG9
 
 # SLACK API Configurations
 # ----------------------------------------------
-# PhraseFinder Keys
-SLACK_CLIENT_ID = '1047294149206.1039384436067'
-SLACK_CLIENT_SECRET = '850d7ce3fa04c5183aed822073819163'
-SLACK_VERIFICATION_TOKEN = '7TMy52dmieCxugnKQuThKBlI'
-SLACK_BOT_USER_TOKEN = 'xoxb-1047294149206-1053947245045-RQxdqXY1R0mSA6UiLnK2HiG9'
+# Bot Keys
+SLACK_CLIENT_ID = '#########################'
+SLACK_CLIENT_SECRET = '#########################'
+SLACK_VERIFICATION_TOKEN = '#########################'
+SLACK_BOT_USER_TOKEN = '#########################'
 
 --Apply all migrations and run the Django server--------------------------------
 
